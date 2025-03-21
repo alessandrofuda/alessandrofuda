@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Alessandro a software developer from Italy with a strong interest in web applications and management software.
+I am Alessandro a software developer from Italy ![Italy Flag](https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg)
+ with a strong interest in web applications and management software.
 
 Technical Stack
 
