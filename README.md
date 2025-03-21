@@ -2,6 +2,7 @@
 
 I am Alessandro a **software developer** from Italy with a strong interest in **web applications** and **management software**.
 
+Main tech stack include: javascript, php, laravel ecosystem, vue.js, docker, podman, linux, bash scripting, Rest API, git and other.
 
 
 <!--
