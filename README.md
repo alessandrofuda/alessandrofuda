@@ -3,7 +3,7 @@
 I am Alessandro a **software developer** from Italy with a strong interest in **web applications** and **management software**.
 
 Main **tech stack** include: javascript, php, laravel ecosystem, vue.js, docker, podman, linux, bash scripting, Rest API, git and other.
-Furthermore I'm experimenting with cutting-edge **Gen. AI Api** tools and I'm getting AWS certification.
+Furthermore I'm experimenting with cutting-edge **Generative AI Api** tools and I'm getting AWS certification.
 
 
 <!--
